@@ -1,7 +1,7 @@
 # Backend
 
 **Aplicaciones Web - Tarea por Equipos**  
-*Desarrollo de un Backend (API REST) para Sistema de Gestión de Restaurante*
+*Desarrollo de un Backend (API REST) para Sistema de ...*
 
 ## Authors
 
