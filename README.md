@@ -12,6 +12,12 @@ This project was developed by:
 - **Angel Falcon**
 - **Dany Tipan**
 
+## V1
+No incluye integración con Keycloak.
+
+## V2
+implementa Keycloak como proveedor de identidad, generando tokens por cada combinación usuario-cliente.
+
 ## Results and Functionality
 
 To view the complete results and functionality of the API, check the detailed documentation:
