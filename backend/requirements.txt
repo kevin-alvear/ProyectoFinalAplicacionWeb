@@ -1,0 +1,11 @@
+# library_project/backend/requirements.txt
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pydantic
+python-jose[cryptography]
+passlib[bcrypt]
+python-keycloak 
+PyJWT
+python-multipart
